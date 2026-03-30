@@ -90,7 +90,7 @@ Carbon-Emissions-Analysis/
 
 ## Author
 
-**Engr. Saddam Hussain**
+**By Engr. Saddam Hussain**, Data Scientist of Energy Systems and Agentic AI Engineer
 
 ## License
 
